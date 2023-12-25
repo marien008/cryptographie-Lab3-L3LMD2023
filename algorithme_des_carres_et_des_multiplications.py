@@ -8,6 +8,7 @@ try:
     x=int(input("entrer la valeur de x\n"))
     b=str(format(int(input("entrer la valeur de b\n")),'0b'))
     n=int(input("entrer la valeur de n\n"))
+    print("b en binaire:",b)
 
     etape=[]
 
